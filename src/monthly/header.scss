@@ -1,0 +1,24 @@
+@import '../variables.scss';
+
+.calendar-header {
+    >.title {
+	font-weight: normal;
+	text-align: center;
+    }
+    .arrow {
+	color: $color-darkgray;
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 15px;
+	font-size: 50%;
+	padding: 0;
+	background: $color-white;
+	border: 1px solid $color-lightgray;
+	>svg {
+	    margin: 8px 0;
+	}
+    }
+}

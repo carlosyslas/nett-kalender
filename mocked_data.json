@@ -1,0 +1,136 @@
+{
+  "events": [
+    {
+      "id": "1e5f169e-a9c0-4bb8-a588-6153e696c5d9",
+      "start": "2019-08-01T15:58:30Z",
+      "content": "Read C++ book chapter",
+      "color": 2
+    },
+    {
+      "id": "331d7776-4cc7-4509-b94a-46f66cf5a15c",
+      "start": "2019-08-14T15:58:30Z",
+      "content": "Search for a new appartment online",
+      "color": 1
+    },
+    {
+      "id": "a9058091-46c9-40a5-9e23-36f7f2dafbea",
+      "start": "2019-08-16T15:58:30Z",
+      "content": "Buy groceries",
+      "color": 3
+    },
+    {
+      "id": "b13f20aa-0cb3-45ba-a531-0e099427a8ce",
+      "start": "2019-08-16T12:58:30Z",
+      "content": "Wash clothes",
+      "color": 4
+    },
+    {
+      "id": "cd2a6d01-7d34-4000-908c-d975107e0f1d",
+      "start": "2019-08-17T12:58:30Z",
+      "content": "Make reservation at taco place",
+      "color": 5
+    },
+    {
+      "id": "ae83e100-0c36-4dd7-951e-25b8954dea61",
+      "start": "2019-08-20T12:58:30Z",
+      "content": "Go hiking",
+      "color": 6
+    },
+    {
+      "id": "00841621-bea5-478c-8b33-0576ffd161ba",
+      "start": "2019-08-19T07:00:00Z",
+      "content": "Deliver coding challenge",
+      "color": 1
+    },
+    {
+      "id": "f4591b39-90da-41de-8ecf-e2fb520286a5",
+      "content": "Code a new game",
+      "start": "2019-08-24T12:00:00.000+02:00",
+      "color": 3
+    },
+    {
+      "id": "78c05f52-6e82-41a2-8111-a0bb09577fbd",
+      "content": "Upload YouTube video",
+      "start": "2019-08-28T13:00:00.000+02:00",
+      "color": 2
+    },
+    {
+      "id": "516766b8-5832-44bb-9893-2efc5d503a84",
+      "content": "Get wasted!",
+      "start": "2019-08-30T00:00:00.000+02:00",
+      "color": 6
+    },
+    {
+      "id": "ed1a360b-9f0e-4ec0-9623-5ddd98b51d55",
+      "content": "Go running",
+      "start": "2019-09-02T06:00:00.000+02:00",
+      "color": 4
+    },
+    {
+      "id": "20236281-a284-48e2-b535-f13cfbf3b147",
+      "content": "Prepare breakfast",
+      "start": "2019-09-02T07:00:00.000+02:00",
+      "color": 5
+    },
+    {
+      "id": "22c52d5f-64f1-47e0-b3dc-1589864706e5",
+      "content": "Take a shower",
+      "start": "2019-09-02T07:30:00.000+02:00",
+      "color": 6
+    },
+    {
+      "id": "dfc526d1-c816-4642-a550-70700c7b552d",
+      "content": "Fold clothes",
+      "start": "2019-09-05T20:00:00.000+02:00",
+      "color": 1
+    },
+    {
+      "id": "a0e69917-ff1d-43db-9a63-02cd386c7dc8",
+      "content": "Call Juancho",
+      "start": "2019-09-10T00:00:00.000+02:00",
+      "color": 2
+    },
+    {
+      "id": "48faa153-19e3-4557-b928-d9c0a9755862",
+      "content": "Start a blog",
+      "start": "2019-09-19T17:00:00.000+02:00",
+      "color": 3
+    },
+    {
+      "id": "5336958f-034d-45c8-80f2-88d6dd15de5a",
+      "content": "Commute to work",
+      "start": "2019-09-02T08:00:00.000+02:00",
+      "color": 3
+    },
+    {
+      "id": "906d62f2-ee79-4e11-9fe4-da8f4d49f3aa",
+      "content": "Learn to play Go",
+      "start": "2019-09-23T13:00:00.000+02:00",
+      "color": 6
+    },
+    {
+      "id": "c0ecb098-c181-40fc-8ae8-b92bef5b8b89",
+      "content": "Play LOL",
+      "start": "2019-09-14T18:00:00.000+02:00",
+      "color": 5
+    },
+    {
+      "id": "9460324d-3801-4198-8f4f-26e3a939ba5d",
+      "content": "Carne asada",
+      "start": "2019-09-27T00:00:00.000+02:00",
+      "color": 1
+    },
+    {
+      "id": "92d2b846-8f2e-4c98-bdaf-2d99344f79d3",
+      "content": "Prepare chimichangas",
+      "start": "2019-09-15T18:00:00.000+02:00",
+      "color": 2
+    },
+    {
+      "id": "2d16339e-1659-4842-9b06-c503cc8980d3",
+      "content": "Watch romantic movie",
+      "start": "2019-10-02T14:00:00.000+02:00",
+      "color": 5
+    }
+  ]
+}

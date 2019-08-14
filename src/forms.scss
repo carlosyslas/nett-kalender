@@ -1,0 +1,21 @@
+@import './variables.scss';
+
+.form-field {
+    display: flex;
+    margin-top: 20px;
+    .label {
+	font-weight: bold;
+	padding-right: 10px;
+	flex-grow: 1;
+    }
+}
+
+.input {
+    box-sizing: border-box;
+    font-family: inherit;
+    display: block;
+    width: 100%;
+    font-size: 100%;
+    padding: 5px;
+    border: 1px solid $color-lightgray;
+}

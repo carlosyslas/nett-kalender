@@ -1,0 +1,3 @@
+{
+  "/events/:year/:month": "/events?year=:year&month=:month"
+}

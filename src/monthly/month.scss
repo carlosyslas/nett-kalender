@@ -1,0 +1,16 @@
+@import '../variables.scss';
+
+.month-view {
+    background: $color-white;
+    display: grid;
+    grid-template-columns: repeat(7, calc(100% / 7));
+    border-radius: 3px;
+    border: 1px solid $color-lightgray;
+    border-left: none;
+    border-bottom: none;
+    >.day-name {
+	padding: 5px;
+	text-align: center;
+	background: $color-lightgray;
+    }
+}

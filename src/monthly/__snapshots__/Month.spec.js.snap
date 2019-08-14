@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Month renders 1`] = `
+"<div>
+  <Header date={{...}} />
+  <div className=\\"month-view\\">
+    <div className=\\"day-name\\">
+      Sun
+    </div>
+    <div className=\\"day-name\\">
+      Mon
+    </div>
+    <div className=\\"day-name\\">
+      Tue
+    </div>
+    <div className=\\"day-name\\">
+      Wed
+    </div>
+    <div className=\\"day-name\\">
+      Thu
+    </div>
+    <div className=\\"day-name\\">
+      Fri
+    </div>
+    <div className=\\"day-name\\">
+      Sat
+    </div>
+    <DayCard date={{...}} isDisabled={true} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={true} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={true} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={false} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+    <DayCard date={{...}} isDisabled={true} events={{...}} openEditModal={[undefined]} openDeleteModal={[undefined]} />
+  </div>
+</div>"
+`;

@@ -1,0 +1,27 @@
+@import '../variables.scss';
+
+.color-picker {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+    >.color {
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	margin-right: 5px;
+	cursor: pointer;
+	transition: 0.3s;
+	@for $i from 1 through length($event-colors) {
+	    $color: nth($event-colors, $i);
+	    &.-bg-#{$i} {
+		background: $color;
+		transform: scale(0.7);
+	    }
+	}
+	&.-selected,&:hover {
+	    border-color: $color-lightgray;
+	    transform: scale(1);
+	}
+    }
+}

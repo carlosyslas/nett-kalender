@@ -1,0 +1,33 @@
+@import '../variables.scss';
+
+.simple-dropdown {
+    position: relative;
+    cursor: pointer;
+    >.options {
+	position: absolute;
+	top: 0;
+	left: 100%;
+	z-index: 1;
+	background: $color-white;
+	color: $color-darkgray;
+	border: 1px solid $color-lightgray;
+	border-radius: 3px;
+	list-style: none;
+	margion: 0;
+	padding: 0;
+	box-shadow: 1px 1px 3px 0px rgba(0, 0, 0, 0.3);
+    }
+    .option{
+	padding: 10px;
+	transition: 0.3s;
+	&:hover {
+	    background: $color-lightergray;
+	}
+	&.-primary {
+	    color: $color-primary;
+	}
+	&.-delete {
+	    color: $color-delete;
+	}
+    }
+}
